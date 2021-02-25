@@ -25,8 +25,8 @@ public class DataDriven {
 		System.out.println(data.get(2));
 		System.out.println(data.get(3));
 		
-		System.out.println("Testing git changes to file");
-		System.out.println("Testing git changes to file");
+		//System.out.println("Testing git changes to file");
+		//System.out.println("Testing git changes to file");
 	}
 	
 	@SuppressWarnings("deprecation")
